@@ -1,5 +1,5 @@
 # blutrax
-Python Blutrax Keylogger 
+Python Blutrax Keylogger, - `Blutrax Python Keylogging` adalah program yang dibuat untuk merekam aktifitas pengguna komputer.
 
 ## Configuration
 buka file `blutrax/conf.py` dan tambahkan `line username` dan `line password` kalian.
